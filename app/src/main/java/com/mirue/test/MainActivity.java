@@ -19,12 +19,16 @@ public class MainActivity extends AppCompatActivity {
     /**
      *
      * MAIN activities
+     * accoment
      */
 =======
 // A comment from test brench.
 
 
     //Asecond Comment
+<<<<<<< HEAD
+>>>>>>> test
+=======
 >>>>>>> test
     @Override
     protected void onCreate(Bundle savedInstanceState) {
