@@ -13,12 +13,19 @@ import android.view.Menu;
 import android.view.MenuItem;
 
 public class MainActivity extends AppCompatActivity {
+<<<<<<< HEAD
 // A comment from test branch.
 
     /**
      *
      * MAIN activities
      */
+=======
+// A comment from test brench.
+
+
+    //Asecond Comment
+>>>>>>> test
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
